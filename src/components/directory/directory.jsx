@@ -25,7 +25,7 @@ class Directory extends React.Component {
         },
         {
           title: 'playstation',
-          imageUrl: 'https://demo.gawron.me/img/gameshop/logo_playstation.jpg',
+          imageUrl: 'https://demo.gawron.me/img/gameshop/logo_playstation-3.jpg',
           size: 'large',
           id: 4,
         },
