@@ -9,15 +9,13 @@ class Directory extends React.Component {
     this.state = {
       sections: [
         {
-          title: 'playstation',
-          imageUrl: 'https://demo.gawron.me/img/gameshop/logo_playstation.jpg',
-          size: 'large',
+          title: 'sega',
+          imageUrl: 'https://demo.gawron.me/img/gameshop/logo_sega.jpg',
           id: 1,
         },
         {
-          title: 'atari',
-          imageUrl: 'https://demo.gawron.me/img/gameshop/logo_atari.jpg',
-          size: 'large',
+          title: 'xbox',
+          imageUrl: 'https://demo.gawron.me/img/gameshop/logo_xbox.jpg',
           id: 2,
         },
         {
@@ -26,13 +24,15 @@ class Directory extends React.Component {
           id: 3,
         },
         {
-          title: 'sega',
-          imageUrl: 'https://demo.gawron.me/img/gameshop/logo_sega.jpg',
+          title: 'playstation',
+          imageUrl: 'https://demo.gawron.me/img/gameshop/logo_playstation.jpg',
+          size: 'large',
           id: 4,
         },
         {
-          title: 'xbox',
-          imageUrl: 'https://demo.gawron.me/img/gameshop/logo_xbox.jpg',
+          title: 'atari',
+          imageUrl: 'https://demo.gawron.me/img/gameshop/logo_atari-2.png',
+          size: 'large',
           id: 5,
         },
       ],
