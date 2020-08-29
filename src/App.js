@@ -2,22 +2,17 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 import HomePage from './pages/homepage/homepage';
-
-const Playstation = () => (
-  <div>
-    <h1>Playstation</h1>
-  </div>
-);
+import ShopPage from './components/shop/shop';
 
 function App() {
   return (
     <div>
-        <Router>
-            <Switch>
-                <Route exact path='/' component={HomePage} />
-                <Route path='/playstation' component={Playstation} />
-            </Switch>
-        </Router>
+      <Router>
+        <Switch>
+          <Route exact path='/' component={HomePage} />
+          <Route path='/shop' component={ShopPage} />
+        </Switch>
+      </Router>
     </div>
   );
 }
