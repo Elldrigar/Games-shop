@@ -183,7 +183,7 @@ const SHOP_DATA = [
       {
         id: 3,
         name: 'Mortal Kombat 2',
-        imageUrl: '/nintendo/cover_02',
+        imageUrl: '/nintendo/cover_03',
         price: 249,
       },
       {
@@ -437,7 +437,7 @@ const SHOP_DATA = [
       {
         id: 3,
         name: 'Ms. Pac-Man',
-        imageUrl: '/atari/cover_04',
+        imageUrl: '/atari/cover_03',
         price: 249,
       },
       {
