@@ -5,6 +5,8 @@ $main-color: #000000;
   top: -14px;
   font-size: 12px;
   color: $main-color;
+  font-weight: bold;
+  letter-spacing: 2px;
 }
 
 .group {
@@ -33,7 +35,7 @@ $main-color: #000000;
   }
 
   input[type='password'] {
-    letter-spacing: 0.3em;
+    letter-spacing: 0.5em;
   }
 
   .form-input-label {
@@ -44,7 +46,7 @@ $main-color: #000000;
     pointer-events: none;
     left: 5px;
     top: 10px;
-    transition: .3s ease all;
+    transition: .4s ease all;
 
     &.shrink {
       @include shrinkLabel();
