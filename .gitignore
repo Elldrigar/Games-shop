@@ -7,9 +7,8 @@
 
 # production
 /build
+# sensitive files
 /src/firebase/config.js
-
-
 
 # misc
 .DS_Store
