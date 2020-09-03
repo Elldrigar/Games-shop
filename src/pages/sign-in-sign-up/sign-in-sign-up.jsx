@@ -1,6 +1,11 @@
 import React from 'react';
 import './sign-in-sign-up.scss';
+import SignIn from '../../components/sign-in/sign-in';
 
-const SignInSignUpPage = () => <div>SINGN IN TEST</div>;
+const SignInSignUpPage = () => (
+  <div>
+    <SignIn />
+  </div>
+);
 
 export default SignInSignUpPage;
