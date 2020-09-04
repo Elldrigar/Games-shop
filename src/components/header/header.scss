@@ -21,6 +21,10 @@
     .logo:hover {
       height: 80px;
     }
+    .logo:hover .eye{
+      fill: red;
+      transition: all 1s;
+    }
   }
 
   .options {

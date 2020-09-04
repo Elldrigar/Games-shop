@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="122.5px" height="150px" viewBox="0 0 122.5 150" enable-background="new 0 0 122.5 150" xml:space="preserve">
+	 stroke="none" width="122.5px" height="150px" viewBox="0 0 122.5 150" enable-background="new 0 0 122.5 150" xml:space="preserve">
 <g id="XMLID_1_">
 	<g>
 		<g id="XMLID_2_">
@@ -10,7 +10,7 @@
 			<polygon fill="#64636B" points="104.907,50.324 119.048,66.15 90.069,81.981 			"/>
 			<polygon fill="#373641" points="119.048,66.15 76.422,112.779 90.069,81.981 			"/>
 			<polygon fill="#3F3E48" points="104.557,18.287 104.907,50.324 90.069,34.023 			"/>
-			<polygon fill="#010202" points="90.069,34.023 104.907,50.324 90.069,66.15 			"/>
+			<polygon class="eye" fill="#010202" points="90.069,34.023 104.907,50.324 90.069,66.15 			"/>
 			<polygon fill="#383641" points="104.907,50.324 90.069,81.981 75.753,50.324 90.069,34.023 90.069,66.15 			"/>
 			<polygon fill="#51505A" points="104.557,18.287 90.069,34.023 61.261,2.176 			"/>
 			<polygon fill="#3F3E48" points="61.261,2.176 90.069,34.023 75.753,50.324 46.247,50.324 32.282,34.023 			"/>
@@ -23,7 +23,7 @@
 			<polygon fill="#D7D3C6" points="46.247,50.324 61.261,66.06 32.282,81.981 			"/>
 			<polygon fill="#383641" points="32.282,34.023 46.247,50.324 32.282,81.981 17.268,50.091 32.282,66.06 			"/>
 			<polygon fill="#373641" points="32.282,81.981 46.004,112.779 2.951,66.06 			"/>
-			<polygon fill="#010202" points="32.282,34.023 32.282,66.06 17.268,50.091 			"/>
+			<polygon class="eye" fill="#010202" points="32.282,34.023 32.282,66.06 17.268,50.091 			"/>
 			<polygon fill="#3F3E48" points="17.268,18.287 32.282,34.023 17.268,50.091 			"/>
 			<polygon fill="#64636B" points="17.268,50.091 32.282,81.981 2.951,66.06 			"/>
 			<polygon fill="#383541" points="17.268,18.287 17.268,50.091 2.951,66.06 			"/>
