@@ -8,6 +8,10 @@ $main-color: #000000;
   font-weight: bold;
   letter-spacing: 2px;
 }
+form {
+  width: 100%;
+  overflow: hidden;
+}
 
 .group {
   position: relative;
@@ -17,7 +21,7 @@ $main-color: #000000;
     background: #ffffff none;
     color: $sub-color;
     font-size: 18px;
-    padding: 10px 10px 10px 5px;
+    padding: 10px;
     display: block;
     width: 100%;
     border: none;
