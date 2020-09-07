@@ -1,5 +1,5 @@
 .sign-up {
-  width: 380px;
+  width: 320px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -17,4 +17,9 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+}
+@media screen and (max-width: 900px) {
+  .sign-up {
+    margin-top: 200px;
+  }
 }
