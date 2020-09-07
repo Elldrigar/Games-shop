@@ -51,7 +51,7 @@ class SignUp extends React.Component {
     return (
       <div className='sign-up'>
         <h2 className='title'>Nie mam konta</h2>
-        <span className='subbtitle'>Zarejestruj się podając email i hasło</span>
+        <span className='subtitle'>Zarejestruj się podając email i hasło</span>
         <form onSubmit={this.handleSubmit}>
           <FormInput
             type='text'
@@ -85,7 +85,9 @@ class SignUp extends React.Component {
             label='Potwierdź hasło'
             required
           />
-          <CustomButton type='submit'>Zarejestruj się</CustomButton>
+          <div className='buttons-container2'>
+            <CustomButton type='submit'>Zarejestruj się</CustomButton>
+          </div>
         </form>
       </div>
     );
